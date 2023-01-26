@@ -1,0 +1,4 @@
+[ 2023-01-26 19:15:46,273 ] 14 root - INFO - Reading  training pipeline
+[ 2023-01-26 19:15:46,273 ] 16 root - INFO - Reading OS path for training pipeline
+[ 2023-01-26 19:15:46,274 ] 20 root - INFO - Reading OS path for training pipeline done
+[ 2023-01-26 19:15:46,274 ] 27 root - INFO - Reading OS path for dataingestion

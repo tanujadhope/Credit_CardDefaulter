@@ -6,9 +6,9 @@ import json
 
 client = pymongo.MongoClient("mongodb+srv://TanujaDhope1:admin78@cluster0.aojtki0.mongodb.net/?retryWrites=true&w=majority")
 
-DATABASE_NAME="bank_credits"
-COLLECTION_NAME="creadit_card"
-DATA_FILE_PATH="E:\VScode\CreditCarddefaulter\default-of-credit-card-clients.csv"
+DATABASE_NAME="bankcredit"
+COLLECTION_NAME="creditcard"
+DATA_FILE_PATH="E:\VScode\Credit_CardDefaulter\default-of-credit-card-clients.csv"
 
 if __name__=="__main__":
  df=pd.read_csv(DATA_FILE_PATH)
